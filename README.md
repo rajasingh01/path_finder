@@ -22,6 +22,7 @@ python3 path_finder.py -u <URL> [-w <payload_list_file>]
 
 - `-u, --url`: Base URL to check for hidden paths.
 - `-w, --payload-list`: (Optional) Path to a file containing a list of payloads for hidden paths. Default is `payloads.txt`.
+- `-h` : for all functional detail needed.
 
 4. Wait for the script to finish. The results will be saved in a file named `hidden_paths.txt` in the same directory.
 
